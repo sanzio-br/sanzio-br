@@ -9,9 +9,11 @@ I've been learning web development for the past two years and I started with Htm
 *   🌍  I'm based in nairobi,kenya
 *   ✉️  You can contact me at [briansanzii@gmail.com](mailto:briansanzii@gmail.com)
 *   🧠  I'm learning Python/ Django
-*   ⚡  Am a car enthusiast too I love performance cars especially the iconic subaru forester STI sg9<a href="https://www.twitter.com/BrianSanluiz" target="_blank" rel="noreferrer"><img
+*   ⚡  Am a car enthusiast too I love performance cars especially the iconic subaru forester STI sg9<a href="https://www.twitter.com/BrianSanluiz" target="_blank" rel="noreferrer">
+<img
                   src="https://img.shields.io/twitter/follow/BrianSanluiz?logo=twitter&style=for-the-badge&color=ffffff&labelColor=713f12"
-                /></a><a href="https://www.github.com/sanzio-br" target="_blank" rel="noreferrer"><img
+                />
+                </a><a href="https://www.github.com/sanzio-br" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sanzio-br?logo=github&style=for-the-badge&color=ffffff&labelColor=713f12" /></a>### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
