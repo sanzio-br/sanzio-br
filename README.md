@@ -7,7 +7,7 @@ Mern stack web dev
 I've been learning web development for the past two years and I started with Html, css and javascript and over the years I fell in love with javascript and decided to be a full stack javascript web developer. I am an open-minded person and in the near future I would like to be a full stack system designer and developer. I have skills in Reactjs, nextjs, Expressjs and Nodejs.
 
 * 🌍  I'm based in nairobi,kenya
-* ✉️  You can contact me at [briansanzii@gmail.com](mailto:briansanzii@gmail.com)
+* ✉️  You can contact me at [briansanzi](https://twitter.com/BrianSanluiz)
 * 🧠  I'm learning Python/ Django
 * ⚡  Am a car enthusiast too I love performance cars especially the iconic subaru forester STI sg9
 
