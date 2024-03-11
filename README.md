@@ -8,7 +8,6 @@ I've been learning web development for the past two years and I started with Htm
 
 * 🌍  I'm based in nairobi,kenya
 * ✉️  You can contact me at [briansanzi](https://twitter.com/BrianSanluiz)
-* 🧠  I'm learning PHP
 * <a href="https://tinypesa.com/sandev" target="_blank" rel="noreferrer">Suport me</a>
 
 <a href="https://www.twitter.com/BrianSanluiz" target="_blank" rel="noreferrer"><img
