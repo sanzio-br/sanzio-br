@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Sanzio
 ====================================================================================================================================
 
-Mern stack web dev
+FULL STACK WEB DEVELOPER
 ------------------
 
 I've been learning web development for the past two years and I started with Html, css and javascript and over the years I fell in love with javascript and decided to be a full stack javascript web developer. I am an open-minded person and in the near future I would like to be a full stack system designer and developer. I have skills in Reactjs, nextjs, Expressjs and Nodejs , mySQL, data structures and algorithithms .
