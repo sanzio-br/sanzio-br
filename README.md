@@ -1,4 +1,4 @@
-# Hi there, I'm Brian Mahindu Sanzio! 👋
+# Hi there, I'm Brian Sanzio! 👋
 
 ### Full Stack Developer
 
