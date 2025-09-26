@@ -70,6 +70,8 @@ Here's a snapshot of my technical arsenal:
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
 <img src="https://img.shields.io/badge/Square-5E2B80?style=for-the-badge&logo=square&logoColor=white" alt="Square">
 <img src="https://img.shields.io/badge/GoCardless-000000?style=for-the-badge&logo=gocardless&logoColor=white" alt="GoCardless">
+  <img src="https://img.shields.io/badge/M-PESA-000000?style=for-the-badge&logo=m-pesas&logoColor=white" alt="M-PESA">
+  <img src="https://img.shields.io/badge/Sasapay-000000?style=for-the-badge&logo=sasapay&logoColor=white" alt="Sasapay">
 <!-- Add more badges for Authorize.net, TSYS, etc. if available -->
 <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logoColor=white" alt="RESTful APIs">
 <img src="https://img.shields.io/badge/Payment%20Gateways-005571?style=for-the-badge&logoColor=white" alt="Payment Gateways">
