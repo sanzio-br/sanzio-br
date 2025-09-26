@@ -12,7 +12,7 @@
 
 ## 🚀 Professional Summary
 
-Highly experienced Full Stack Engineer with **3+ years of dedicated experience** in building and maintaining distributed, scalable web applications, with a strong focus on **PHP and Laravel**. Adept in both frontend and backend development, possessing deep expertise in **PHP 8.1+, Laravel, Vue.js, RESTful APIs, and SQL, Fillament**.
+Highly experienced Full Stack Engineer with **3+ years of dedicated experience** in building and maintaining distributed, scalable web applications, with a strong focus on **PHP and Laravel**. Adept in both frontend and backend development, possessing deep expertise in **PHP, Laravel, Vue.js, RESTful APIs,Graphql, and SQL, Fillament , Nestjs,Node js**.
 
 I have a proven track record in shipping high-impact features, maintaining robust systems, and leading refactoring initiatives. My experience extends to cloud infrastructure (AWS), Docker, and CI/CD pipelines. I am passionate about delivering exceptional user experiences through clean, tested code and reusable components, while strictly adhering to **SOLID, DRY, and KISS principles**.
 
