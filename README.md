@@ -29,4 +29,3 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 <a href="https://www.linkedin.com/in/brian-sanzio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-&copy; 2025 Brian Mahindu Sanzio. All Rights Reserved.
