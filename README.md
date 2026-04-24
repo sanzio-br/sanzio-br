@@ -1,6 +1,4 @@
-# Hi there, I'm Brian Sanzio! 👋
-
-### Full Stack Developer
+### Hi there, I'm San! 👋 Full Stack Developer
 
 <p align="center">
 <a href="mailto:briansanzii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
